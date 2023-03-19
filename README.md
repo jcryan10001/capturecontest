@@ -1,3 +1,13 @@
+Capture Contest
+Capture Contest is a desktop-based camera club critique/competition system designed to streamline the process of organizing, managing, and evaluating photographic images submitted by club members.
+
+Features
+Two views: one for the user (interactive) and one for the projector/secondary display (passive).
+Customizable fields: club name, group names, and award types.
+File management: search and identify the working folder with images, check filenames for correct structure, and update the list of images.
+In-app menu for managing the application and critique process.
+Critique and evaluation process: view images, provide comments and recommendations, determine winners, and display results.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
